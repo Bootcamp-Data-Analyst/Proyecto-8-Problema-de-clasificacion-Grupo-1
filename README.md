@@ -1,8 +1,3 @@
-<p align="center">
-  <img width="479" height="479" src="https://github.com/user-attachments/assets/b4cd9a50-83f2-4240-9f5d-94b59c7b64e9">
-</p>
-
-
 # Proyecto 8: Predicción de Satisfacción de Pasajeros de Aerolíneas
 
 ## Descripción
