@@ -163,4 +163,4 @@ if st.button("Calcular Satisfacción"):
         st.info("**Tip:** Los factores que más podrían mejorar la satisfacción son el servicio de WiFi y el entretenimiento a bordo.")
 
 # Footer
-st.markdown("<br><br><p style='text-align: center; color: grey;'>Antigravity AI - Proyecto 8</p>", unsafe_allow_html=True)
+st.markdown("<br><br>", unsafe_allow_html=True)
